@@ -1,0 +1,13 @@
+- 👋 Hi, I’m Ehsan Najafi, I am a Postdoctoral Research Associate experienced in research, teaching and mentoring and skilled in climate and climate change 
+analysis, hydrology, hydraulics, water networks, water resources management, extreme events (droughts and floods), statistical analysis, data mining, data 
+visualization, optimization and climate impacts assessment. Involved in several projects on building statistical/physical models, diagnostic analysis, pattern 
+recognition, and handling data-intensive applications. Effective communicator and problem solver with strong technical and interdisciplinary skills. 
+- 👀 I’m interested in ...
+- 🌱 I’m currently learning ...
+- 💞️ I’m looking to collaborate on ...
+- 📫 How to reach me ...
+
+<!---
+esnjf/esnjf is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
